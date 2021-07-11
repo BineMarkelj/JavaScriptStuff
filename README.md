@@ -1,3 +1,3 @@
 # JavaScriptStuff
 
-site on: https://brave-pike-9643fb.netlify.app/
+site on: https://competent-lewin-88f127.netlify.app/
